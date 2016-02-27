@@ -1,0 +1,10 @@
+indexを使ったjoin
+
+コンパイル方法：
+>make
+
+
+実行方法：
+>sudo ./InnerExe left_number right_number
+
+
